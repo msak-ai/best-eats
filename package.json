@@ -1,7 +1,7 @@
 {
   "name": "best-eats",
   "version": "0.1.0",
-  "homepage": "https://binding-energy.github.io/best-eats",
+  "homepage": "https://msak-io.github.io/best-eats",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.7.15",
